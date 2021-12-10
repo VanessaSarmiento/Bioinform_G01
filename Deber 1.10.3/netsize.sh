@@ -12,4 +12,4 @@ Como resultado se obtendrá 80
 
 para el conteo de filas se utilizará el siguiente comando:
 wc -l n1.txt
-Como resultado se obtendra 97
+Como resultado se obtendrá 97
