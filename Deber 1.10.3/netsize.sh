@@ -7,7 +7,7 @@ Saavedra2013, con el siguiente comando:
 $cd Saavedra2013
 
 Para el conteo de columna se utilizará el siguiente comando:
-head -n 2 n1.txt
+head -n 1 n1.txt | awk '{print NF}'
 Como resultado se obtendrá 80
 
 para el conteo de filas se utilizará el siguiente comando:
