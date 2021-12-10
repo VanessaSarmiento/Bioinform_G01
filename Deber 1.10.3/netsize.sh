@@ -10,3 +10,6 @@ Para el conteo de columna se utilizará el siguiente comando:
 head -n 2 n1.txt
 Como resultado se obtendrá 80
 
+para el conteo de filas se utilizará el siguiente comando:
+wc -l n1.txt
+Como resultado se obtendra 97
