@@ -5,3 +5,7 @@ espacio al final de cada línea. Tu guión debería regresar.
 Primer paso, se llamara la carpeta que contiene los datos:
 Saavedra2013, con el siguiente comando:
 $cd Saavedra2013
+
+Para el conteo de columna se utilizará el siguiente comando:
+head -n 2 n1.txt
+Como resultado se obtendrá 80
