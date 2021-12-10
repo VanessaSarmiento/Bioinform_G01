@@ -1,4 +1,4 @@
-# Bioinform_G01
+# Bioinform_G01 😉:
 Este repositorio va dirigido al grupo de bioinformática de la universidad de ikiam 
 # 1.10.3 Redes de plantas y polinizadores
 
